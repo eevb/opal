@@ -1,2 +1,3 @@
 # opal
-Enhanced Time, Date, and Battery App
+display Time, Date, and Battery in BIG NUMBERS.
+
